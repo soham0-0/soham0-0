@@ -23,6 +23,5 @@
 ***
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=soham0-0&show_icons=true&locale=en&theme=buefy&count_private=true&include_all_commits=true" alt="soham0-0" /> </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soham0-0&show_icons=true&locale=en&layout=compact&theme=buefy" alt="soham0-0" />
 </p>
