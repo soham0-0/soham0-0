@@ -18,5 +18,5 @@
 ***
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=soham0-0&show_icons=true&locale=en&layout=compact&theme=buefy" alt="soham0-0" />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=soham0-0" alt = "streak">
 </p>
